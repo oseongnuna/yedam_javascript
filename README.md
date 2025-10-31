@@ -1,2 +1,2 @@
-# yedam_javascript
-yedam_javascript
+## 자바스크립트 2강의장
+### 변수선언 / 연산식
